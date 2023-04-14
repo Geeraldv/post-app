@@ -1,0 +1,45 @@
+.muro-post {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: #242424;
+}
+
+.muro-post h2 {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.muro-post a {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: azure;
+  margin: 20px;
+}
+
+.card {
+  background-color: white;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px;
+}
+
+.card-body {
+  padding: 10px;
+  margin: 20px;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  margin: 20px;
+}
+
+.card-text {
+  font-size: 16px;
+  margin: 20px;
+}
